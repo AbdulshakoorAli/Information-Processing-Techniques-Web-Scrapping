@@ -1,0 +1,8 @@
+C:\Users\kk\source\repos\k191373_Q1\bin\Debug\k191373_Q1.exe.config
+C:\Users\kk\source\repos\k191373_Q1\bin\Debug\k191373_Q1.exe
+C:\Users\kk\source\repos\k191373_Q1\bin\Debug\k191373_Q1.pdb
+C:\Users\kk\source\repos\k191373_Q1\obj\Debug\k191373_Q1.csproj.AssemblyReference.cache
+C:\Users\kk\source\repos\k191373_Q1\obj\Debug\k191373_Q1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kk\source\repos\k191373_Q1\obj\Debug\k191373_Q1.csproj.CoreCompileInputs.cache
+C:\Users\kk\source\repos\k191373_Q1\obj\Debug\k191373_Q1.exe
+C:\Users\kk\source\repos\k191373_Q1\obj\Debug\k191373_Q1.pdb

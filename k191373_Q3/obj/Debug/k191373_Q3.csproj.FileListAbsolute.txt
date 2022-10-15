@@ -1,0 +1,11 @@
+C:\Users\kk\source\repos\k191373_Q3\bin\Debug\k191373_Q3.exe.config
+C:\Users\kk\source\repos\k191373_Q3\bin\Debug\k191373_Q3.exe
+C:\Users\kk\source\repos\k191373_Q3\bin\Debug\k191373_Q3.pdb
+C:\Users\kk\source\repos\k191373_Q3\obj\Debug\k191373_Q3.csproj.AssemblyReference.cache
+C:\Users\kk\source\repos\k191373_Q3\obj\Debug\k191373_Q3.csproj.SuggestedBindingRedirects.cache
+C:\Users\kk\source\repos\k191373_Q3\obj\Debug\k191373_Q3.Form1.resources
+C:\Users\kk\source\repos\k191373_Q3\obj\Debug\k191373_Q3.Properties.Resources.resources
+C:\Users\kk\source\repos\k191373_Q3\obj\Debug\k191373_Q3.csproj.GenerateResource.cache
+C:\Users\kk\source\repos\k191373_Q3\obj\Debug\k191373_Q3.csproj.CoreCompileInputs.cache
+C:\Users\kk\source\repos\k191373_Q3\obj\Debug\k191373_Q3.exe
+C:\Users\kk\source\repos\k191373_Q3\obj\Debug\k191373_Q3.pdb
